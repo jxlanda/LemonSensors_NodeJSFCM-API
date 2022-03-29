@@ -1,0 +1,21 @@
+{
+  "name": "nodejsfcmapi",
+  "version": "1.0.0",
+  "description": "Firebase Cloud Messaging with NodeJs",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.3.0"
+  },
+  "engines": {
+    "node": "12.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Jose Luis Cuevas",
+  "license": "ISC"
+}
